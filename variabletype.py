@@ -1,0 +1,12 @@
+x=23
+y=33.3333
+z="hello"
+b='True'
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(b))
+print(x)
+print(y)
+print(z)
+print(b)
